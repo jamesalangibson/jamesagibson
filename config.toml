@@ -14,12 +14,13 @@ theme = "hermit"
     URL = "s3://jamesagibson.com?region=us-west-2"
 
 [params]
-    dateform        = "Jan 2, 2006"
-    dateformShort   = "Jan 2"
-    dateformNum     = "2006-01-02"
-    dateformNumTime = "2006-01-02 15:04 -0700"
-    footerCopyright = "All Rights Reserved"
-    homeSubtitle    = "My Home in the Cloud"
+  customCSS       = ["css/custom.css"]
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04 -0700"
+  footerCopyright = "All Rights Reserved"
+  homeSubtitle    = "My Home in the Cloud"
 
   # Social Icons
   [[params.social]]
