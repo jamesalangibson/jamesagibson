@@ -14,7 +14,7 @@ theme = "hermit"
     URL = "s3://jamesagibson.com?region=us-west-2"
 
 [params]
-  css             = ["css/custom.css]
+  customCSS       = ["css/custom.css"]
   dateform        = "Jan 2, 2006"
   dateformShort   = "Jan 2"
   dateformNum     = "2006-01-02"
