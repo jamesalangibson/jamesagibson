@@ -33,5 +33,9 @@ theme = "hermit"
     url = "https://github.com/jamesalangibson"
 
   [[params.social]]
+    name = "linkedin"
+    url = "https://www.linkedin.com/in/james-a-gibson"
+
+  [[params.social]]
     name = "email"
     url = "mailto:jamesagibson@protonmail.com"
