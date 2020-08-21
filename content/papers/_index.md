@@ -11,4 +11,4 @@ Philosophy of Religion
 Theology
 -------------
 
-- [John 3:16 pro mundo]({{< baseurl >}}data/jn316promundo_jagibson.pdf) _draft_ (2020) (if you have an idea for a home for this one, email me)
+- [For God so Loved the World]({{< baseurl >}}data/jn316a_jagibson.pdf) _draft_ (2020) (Comments welcomed.)
