@@ -1,9 +1,9 @@
-baseURL = "https://jamesagibson.com/"
-languageCode = "en-us"
-sectionPagesMenu = "main"
-title = "James A. Gibson" 
-theme = "hermit"
-googleAnalytics = "UA-82311924-1"
+baseURL           = "https://jamesagibson.com/"
+languageCode      = "en-us"
+sectionPagesMenu  = "main"
+title             = "James A. Gibson" 
+theme             = "hermit"
+googleAnalytics   = "UA-82311924-1"
 
 
 [author]
@@ -11,8 +11,8 @@ googleAnalytics = "UA-82311924-1"
 
 [deployment]
   [[deployment.targets]]
-    name = "production"
-    URL = "s3://jamesagibson.com?region=us-west-2"
+    name    = "production"
+    URL     = "s3://jamesagibson.com?region=us-west-2"
     cloudFrontDistributionID = "EBLH61CC4CPPK"
 
 [params]
@@ -23,6 +23,8 @@ googleAnalytics = "UA-82311924-1"
   dateformNumTime = "2006-01-02 15:04 -0700"
   footerCopyright = "All Rights Reserved"
   homeSubtitle    = "My Home in the Cloud"
+  gtm             = "GTM-MFB7C9L"
+
 
   # Social Icons
   [[params.social]]
