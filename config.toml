@@ -16,7 +16,6 @@ googleAnalytics   = "UA-82311924-1"
     cloudFrontDistributionID = "EBLH61CC4CPPK"
 
 [params]
-  customCSS       = ["css/custom.css"]
   dateform        = "Jan 2, 2006"
   dateformShort   = "Jan 2"
   dateformNum     = "2006-01-02"
