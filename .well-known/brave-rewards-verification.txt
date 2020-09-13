@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: jamesagibson.com
+Token: 8d1149d5849166bb0f81a02240d29d7c5f8ba89b530a6d38d988241e3155ffb9
