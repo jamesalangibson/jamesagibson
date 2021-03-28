@@ -8,9 +8,4 @@ I am a backend engineer focused on the data and middle layers with experience de
 
 ## Python
 
-- [Supporting Multiple Versions of Python on a Mac](https://weknowinc.com/blog/running-multiple-python-versions-mac-osx)
-    - To overcome issues with zlib on a Mac, the following command will work: 
-    
-      CFLAGS="-I$(brew --prefix openssl)/include -I$(brew --prefix readline)/include -I$(xcrun --show-sdk-path)/usr/include" \
-      LDFLAGS="-L$(brew --prefix openssl)/lib -L$(brew --prefix readline)/lib -L$(xcrun --show-sdk-path)/usr/lib" \
-      pyenv install 3.8.5
+- [Supporting Multiple Versions of Python](https://github.com/pyenv/pyenv)
