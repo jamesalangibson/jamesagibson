@@ -14,15 +14,16 @@
 	{{- end }}
 	<div id="spotlight" class="animated fadeIn">
 		<div id="home-center">
+			{{ $image := resources.Get "images/jgibson_012021.jpg" }}
+			{{ $image := $image.Resize "40x" }}
+			<img src="{{ $image.Permalink }}" alt="" id="home-center-img">
 			<h1 id="home-title">{{ .Site.Title }}</h1>
 			{{- with .Site.Params.homeSubtitle }}
 			<p id="home-subtitle">{{.}}</p>
 			{{- end }}
 			<div>
-				<p>
-					<ol>Software engineer designing and building a platform with distributed microservice architecture.</ol>
-					<ol>Philosopher in the Reformed tradition.</ol> 
-					<ol>Sometimes a writer.</ol>
+				<p>Software engineer designing and building a platform with distributed microservice architecture. 
+					Philosopher in the Reformed tradition. Sometimes a writer.
 				</p>
 			</div>
 			{{- with .Site.Params.social }}
