@@ -37,3 +37,7 @@ googleAnalytics   = "UA-82311924-1"
   [[params.social]]
     name = "email"
     url = "mailto:jamesagibson@protonmail.com"
+  
+  [[params.social]]
+    name = "twitter"
+    url = "https://twitter.com/jamesalangibson"
