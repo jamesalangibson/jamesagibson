@@ -23,6 +23,9 @@
 				{{ partialCached "social-icons.html" . }}
 			</div>
 			{{- end }}
+			<!--<nav id="home-nav" class="site-nav">
+				{{ partialCached "menu.html" . }}
+			</nav>-->
 			<nav class="sidebar-nav" style="justify-content: center; text-align: center;">
 				{{ $currentPage := . }}
 				{{ range .Site.Menus.main }}

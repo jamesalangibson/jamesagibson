@@ -345,8 +345,8 @@ table {
   }
 }
 
-#spotlight-content, #spotlight-content-left {
-  display: block;
+#spotlight-content {
+  display: flex;
   flex-direction: column;
   align-items: left;
   justify-content: center;
@@ -358,17 +358,6 @@ table {
     flex-direction: row;
     line-height: normal;
   }
-}
-
-#spotlight-content-left {
-  float:left;
-  width: 60%
-}
-
-#spotlight-content-right {
-  float:right;
-  width: 40%;
-  background-size: contain;
 }
 
 p.img-404 {

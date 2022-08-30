@@ -23,19 +23,17 @@
 				{{ partialCached "social-icons.html" . }}
 			</div>
 			{{- end }}
-			<nav class="sidebar-nav" style="justify-content: center; text-align: center;">
-				{{ $currentPage := . }}
-				{{ range .Site.Menus.main }}
-				<a class="sidebar-nav-item{{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }} active{{end}}" href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a>
-				{{ end }}
-			</nav>
-			<div id="spotlight-content">
+			<div>
 				<p>
 					<ol>Software engineer designing and building a platform with distributed microservice architecture.</ol>
 					<ol>Philosopher in the Reformed tradition.</ol> 
 					<ol>Sometimes a writer.</ol>
 				</p>
 			</div>
+			
+			<nav id="home-nav" class="site-nav">
+				{{ partialCached "menu.html" . }}
+			</nav>
 		</div>
 		<div id="home-footer">
 			<p>

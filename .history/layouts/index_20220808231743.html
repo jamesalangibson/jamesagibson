@@ -23,10 +23,14 @@
 				{{ partialCached "social-icons.html" . }}
 			</div>
 			{{- end }}
-			<nav class="sidebar-nav" style="justify-content: center; text-align: center;">
-				{{ $currentPage := . }}
+			<!--<nav id="home-nav" class="site-nav">
+				{{ partialCached "menu.html" . }}
+			</nav>-->
+			<nav class="sidebar-nav">
 				{{ range .Site.Menus.main }}
-				<a class="sidebar-nav-item{{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }} active{{end}}" href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a>
+				  <a href="{{ .URL }}" title="{{ .Title }}" class="{{ with .Params.class }}{{ . }}{{ end }}">
+					{{- .Name -}}
+				  </a>
 				{{ end }}
 			</nav>
 			<div id="spotlight-content">

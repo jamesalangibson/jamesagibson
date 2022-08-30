@@ -23,11 +23,8 @@
 				{{ partialCached "social-icons.html" . }}
 			</div>
 			{{- end }}
-			<nav class="sidebar-nav" style="justify-content: center; text-align: center;">
-				{{ $currentPage := . }}
-				{{ range .Site.Menus.main }}
-				<a class="sidebar-nav-item{{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }} active{{end}}" href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a>
-				{{ end }}
+			<nav id="home-nav" class="site-nav">
+				{{ partialCached "menu.html" . }}
 			</nav>
 			<div id="spotlight-content">
 				<p>
