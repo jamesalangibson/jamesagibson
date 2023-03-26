@@ -7,16 +7,8 @@ draft: false
 ![James A. Gibson](/JG2021.jpg)
 
 I am a technical lead software engineer working in the healthcare space. My work spans the entire software development lifecycle, from design to implementation, testing, and deployment. 
-
-My work overlaps with system architecture, backend engineering, and DevOps. The best categorization I can think of is that I am a Platform Engineer. Some of the things I have built:
-- automated testing systems for secondary genomic analysis workflows
-- data ingestion system to handle incoming files at petabyte scale
-- master data management system
-- datalake to support data scientists and machine learning experts
-- algorithm for building unique identifiers at scale for a distributed NoSql database
-- system integrations based on domain driven design and the use of Kafka 
-- company wide integration architecture for member enrollment workflows using domain driven design, streaming, and microservices
-
 In a previous career I worked in philosophy specializing in metaphysics and epistemology, especially on free will, and philosophy of religion. I also spent a good amount of time in the history of philosophy and some history of philosophy of science. I am very much a generalist.
 
 I reside in Coronado, CA with my family.
+
+[Full Resume]( {{< baseurl >}}data/jgibson-resume-2023.pdf )
