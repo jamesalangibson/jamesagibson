@@ -2,7 +2,7 @@ baseURL           = "https://jamesagibson.com/"
 languageCode      = "en-us"
 sectionPagesMenu  = "main"
 title             = "James A. Gibson" 
-theme             = "hermit"
+theme             = ["hugo-embed-pdf-shortcode", "hermit"]
 googleAnalytics   = "UA-82311924-1"
 
 
