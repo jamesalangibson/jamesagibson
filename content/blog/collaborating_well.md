@@ -1,0 +1,20 @@
+---
+title: "Reflections on How To Collaborate Well"
+date: 2023-06-15T22:05:08-07:00
+draft: false
+---
+This is a quick reflection on the excellent paper, "How to Collaborate Well" by Katerine Sweet, found in Pacific Philosophical Quarterly (2023). 
+
+Sweet argues that effective collaboration occurs when participants share a common aim and work together to achieve it. This requires a shared vision of the project, which is rooted in their existing well-ordered relationship. Her argument is based on two cases from science and the arts, supported by plausible descriptions. Sweet contends that sharing in a planned project depends on shared aims, which, in turn, rely on a well-ordered relationship among participants. Such a relationship entails shared norms for collaboration, as well as explicit and implicit processes for understanding one another's verbal and non-verbal behaviors. However, for participants to collaborate successfully, they must possess sufficient shared knowledge about each other, understand their respective expectations, and trust that they are working together towards the shared aim.
+
+If we accept this characterization of effective collaboration, certain factors clearly relate to how companies operate.
+
+Re-orgs can be highly disruptive unless the company already has a shared culture, whether at the overall company level or within specific departments. For example, if Team A loses two members to Team B with three members, who have a different set of norms and ways of working together, conflicts may arise between the members. Culture clash.
+
+In order to foster a healthy company culture, participants must have a shared aim when working on projects. Defining and sharing agency in planning and implementing projects allows participants to adapt their communication over time towards a common goal. This is in contrast to a culture of "ticket punchers" who are solely focused on completing tasks without true collaboration. Such individuals may experience burnout, as their motivation is driven by completing tickets rather than meaningful engagement. Eventually, they get bored and seek to leave the company.
+
+Non-collaborative delegation, where participants are assigned tasks without being involved in the planning or design process, leads to a hierarchical relationship. In this case, the person with the task and shared aim is not an equal to the one delegating. It resembles a client-owner relationship rather than a partnership. While this can be acceptable if the norms are understood, describing it as a flat relationship is a mischaracterization. It is possible to be in a hierarchical relationship but also collaborate, such as where the structure does not impugn the trust relationship in achieving the shared aim.
+
+Building trust takes time, especially when participants have not previously worked together. It requires active listening and a willingness to withhold judgment. Being corrected in the said interpretations or intentions frequently is a sign of not forming reliable interpretations. More time will be wasted in arguing and clarifying. By contrast, having continual evidence of shared understanding leads to more effective decision-making and the ability to deliver higher quality products. If collaboration is hindered by structural challenges, such as siloed individuals or teams, at best, one can hope for cooperation, which falls short of effective collaboration.
+
+When it comes to hiring, finding a candidate who meets the requirements and fits the company culture is beneficial. Ideally, assembling a small team from the available candidates for the same department is even better. Hiring individuals who are unfamiliar with each other is a risk from a business perspective. Similarly, hiring a team with an existing relationship carries its own uncertainties. However, if the team is highly effective and shares a vision with the company while also fitting into its culture, the potential gain can be significant.
