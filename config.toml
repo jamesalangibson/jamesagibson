@@ -3,7 +3,7 @@ languageCode      = "en-us"
 sectionPagesMenu  = "main"
 title             = "James A. Gibson" 
 theme             = ["hugo-embed-pdf-shortcode", "hermit"]
-googleAnalytics   = "UA-82311924-1"
+
 
 
 [author]
@@ -16,13 +16,14 @@ googleAnalytics   = "UA-82311924-1"
     cloudFrontDistributionID = "EBLH61CC4CPPK"
 
 [params]
-  dateform        = "Jan 2, 2006"
-  dateformShort   = "Jan 2"
-  dateformNum     = "2006-01-02"
-  dateformNumTime = "2006-01-02 15:04 -0700"
-  footerCopyright = "All Rights Reserved"
-  homeSubtitle    = "My Home in the Cloud"
-  gtm             = "GTM-MFB7C9L"
+  dateform          = "Jan 2, 2006"
+  dateformShort     = "Jan 2"
+  dateformNum       = "2006-01-02"
+  dateformNumTime   = "2006-01-02 15:04 -0700"
+  footerCopyright   = "All Rights Reserved"
+  homeSubtitle      = "My Home in the Cloud"
+  gtm               = "GTM-MFB7C9L"
+  googleAnalyticsID = "G-366665854"
 
 
   # Social Icons

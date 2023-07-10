@@ -1,6 +1,7 @@
 <head>
-    {{ template "_internal/google_analytics.html" . }}
-    {{ template "_internal/google_analytics_async.html" . }}
+    {{ if .Site.Params.GoogleAnalyticsID }}
+    {{ partial "analytics-gtag.html" . }}
+    {{ end }}
   </head>
 <header id="site-header" class="animated slideInUp">
     <div class="hdr-wrapper section-inner">
